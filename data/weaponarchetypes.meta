@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+	<!-- BLUE KATANA -->
+		<Item>
+			<modelName>w_me_katana_blue</modelName>
+			<txdName>w_me_katana_blue</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+	<!-- DARK BLUE KATANA -->
+		<Item>
+			<modelName>w_me_katana_dark_blue</modelName>
+			<txdName>w_me_katana_dark_blue</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+	<!-- GREEN KATANA -->
+		<Item>
+			<modelName>w_me_katana_green</modelName>
+			<txdName>w_me_katana_green</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+	<!-- LILAC KATANA -->
+		<Item>
+			<modelName>w_me_katana_lilac</modelName>
+			<txdName>w_me_katana_lilac</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+	<!-- PINK KATANA -->
+		<Item>
+			<modelName>w_me_katana_pink</modelName>
+			<txdName>w_me_katana_pink</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+	<!-- PURPLE KATANA -->
+		<Item>
+			<modelName>w_me_katana_purple</modelName>
+			<txdName>w_me_katana_purple</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+	<!-- RED KATANA -->
+		<Item>
+			<modelName>w_me_katana_red</modelName>
+			<txdName>w_me_katana_red</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+	<!-- YELLOW KATANA -->
+		<Item>
+			<modelName>w_me_katana_yellow</modelName>
+			<txdName>w_me_katana_yellow</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+	<!--  -->
+	<!--  -->
+	<!--  -->
+	<!--  -->
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
+

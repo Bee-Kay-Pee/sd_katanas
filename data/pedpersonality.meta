@@ -2,14 +2,22 @@
 
 <CPedModelInfo__PersonalityDataList>
 	<MovementModeUnholsterData>
+	<!-- KATANAS -->
 		<Item>
 			<Name>UNHOLSTER_UNARMED</Name>
 			<UnholsterClips>
 				<Item>
 					<Weapons>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
 						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 					</Weapons>
-					<Clip>unarmed_holster_2h_melee</Clip>
+					<Clip>unarmed_holster_unarmed</Clip>
 				</Item>
 			</UnholsterClips>
 		</Item>
@@ -18,9 +26,16 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
 						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 					</Weapons>
-					<Clip>2h_melee_holster_2h_melee</Clip>
+					<Clip>2h_melee_holster_unarmed</Clip>
 				</Item>
 			</UnholsterClips>
 		</Item>
@@ -29,9 +44,16 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
 						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 					</Weapons>
-					<Clip>1h_holster_2h_melee</Clip>
+					<Clip>1h_holster_unarmed</Clip>
 				</Item>
 			</UnholsterClips>
 		</Item>
@@ -40,9 +62,16 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
 						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 					</Weapons>
-					<Clip>2h_holster_2h_melee</Clip>
+					<Clip>2h_holster_unarmed</Clip>
 				</Item>
 			</UnholsterClips>
 		</Item>
@@ -51,10 +80,16 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
 						<Item>WEAPON_KATANA_PURPLE</Item>
-						<Item>WEAPON_GOLFCLUB</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 					</Weapons>
-					<Clip>mini_holster_2h_melee</Clip>
+					<Clip>mini_holster_2h_unarmed</Clip>
 				</Item>
 			</UnholsterClips>
 		</Item>
@@ -63,7 +98,14 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
 						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 					</Weapons>
 					<Clip>unarmed_holster_unarmed</Clip>
 				</Item>
@@ -74,7 +116,14 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
 						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 					</Weapons>
 					<Clip>unarmed_holster_unarmed</Clip>
 				</Item>
@@ -85,7 +134,14 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
 						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 					</Weapons>
 					<Clip>1h_holster_unarmed</Clip>
 				</Item>
@@ -96,37 +152,60 @@
 			<UnholsterClips>
 				<Item>
 					<Weapons>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
 						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 					</Weapons>
 					<Clip>2h_holster_unarmed</Clip>
 				</Item>
 			</UnholsterClips>
 		</Item>
+	<!--  -->
+	<!--  -->
+	<!--  -->
+	<!--  -->
+	<!--  -->
+	<!--  -->
+	<!--  -->
+	
 	</MovementModeUnholsterData>
 	<MovementModes>
+	<!-- KATANAS -->
 		<Item>
 			<Name>DEFAULT_ACTION</Name>
 			<MovementModes>
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
+						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 						</Weapons>
 						<ClipSets>
 							<Item>
 								<MovementClipSetId>MOVE_ACTION@P_M_ZERO@UNARMED@CORE</MovementClipSetId>
-								<WeaponClipSetId>MOVE_ACTION@GENERIC@2H_MELEE_WEAPON@UPPER</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true"/>
+								<WeaponClipSetId/>
+								<WeaponClipFilterId/>
+								<UpperBodyShadowExpressionEnabled value="false"/>
 								<UpperBodyFeatheredLeanEnabled value="false"/>
-								<UseWeaponAnimsForGrip value="false"/>
-								<UseLeftHandIk value="true"/>
+								<UseWeaponAnimsForGrip value="true"/>
+								<UseLeftHandIk value="false"/>
 								<IdleTransitionBlendOutTime value="0.50000000"/>
 								<IdleTransitions>
-									<Item>MOVE_ACTION@GENERIC@TRANS@2H_MELEE</Item>
+									<Item>MOVE_ACTION@GENERIC@TRANS@UNARMED</Item>
 								</IdleTransitions>
 								<UnholsterClipSetId>MOVE_ACTION@P_M_ZERO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData>UNHOLSTER_2H_MELEE</UnholsterClipData>
+								<UnholsterClipData>UNHOLSTER_UNARMED</UnholsterClipData>
 							</Item>
 						</ClipSets>
 					</Item>
@@ -134,7 +213,14 @@
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
+						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 						</Weapons>
 						<ClipSets>
 							<Item>
@@ -147,10 +233,10 @@
 								<UseLeftHandIk value="false"/>
 								<IdleTransitionBlendOutTime value="0.50000000"/>
 								<IdleTransitions>
-									<Item>MOVE_STEALTH@GENERIC@TRANS@2H_MELEE</Item>
+									<Item>MOVE_STEALTH@GENERIC@TRANS@UNARMED</Item>
 								</IdleTransitions>
 								<UnholsterClipSetId>MOVE_STEALTH@P_M_ZERO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData>UNHOLSTER_2H_MELEE_STEALTH</UnholsterClipData>
+								<UnholsterClipData>UNHOLSTER_UNARMED_STEALTH</UnholsterClipData>
 							</Item>
 						</ClipSets>
 					</Item>
@@ -165,23 +251,30 @@
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
+						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 						</Weapons>
 						<ClipSets>
 							<Item>
-								<MovementClipSetId>MOVE_ACTION@P_M_ZERO@UNARMED@CORE</MovementClipSetId>
-								<WeaponClipSetId>MOVE_ACTION@GENERIC@2H_MELEE_WEAPON@UPPER</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true"/>
+								<MovementClipSetId>MOVE_ACTION@MP_FEMALE@UNARMED@CORE</MovementClipSetId>
+								<WeaponClipSetId/>
+								<WeaponClipFilterId/>
+								<UpperBodyShadowExpressionEnabled value="false"/>
 								<UpperBodyFeatheredLeanEnabled value="false"/>
-								<UseWeaponAnimsForGrip value="false"/>
-								<UseLeftHandIk value="true"/>
+								<UseWeaponAnimsForGrip value="true"/>
+								<UseLeftHandIk value="false"/>
 								<IdleTransitionBlendOutTime value="0.50000000"/>
 								<IdleTransitions>
-									<Item>MOVE_ACTION@MP_FEMALE@ARMED@2H_MELEE@TRANS</Item>
+									<Item>MOVE_ACTION@MP_FEMALE@UNARMED@TRANS@</Item>
 								</IdleTransitions>
 								<UnholsterClipSetId>MOVE_ACTION@P_M_ZERO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData>UNHOLSTER_2H_MELEE</UnholsterClipData>
+								<UnholsterClipData>UNHOLSTER_UNARMED</UnholsterClipData>
 							</Item>
 						</ClipSets>
 					</Item>
@@ -189,7 +282,14 @@
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
+						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 						</Weapons>
 						<ClipSets>
 							<Item>
@@ -202,10 +302,10 @@
 								<UseLeftHandIk value="false"/>
 								<IdleTransitionBlendOutTime value="0.50000000"/>
 								<IdleTransitions>
-									<Item>MOVE_STEALTH@MP_FEMALE@2H_MELEE@TRANS</Item>
+									<Item>MOVE_STEALTH@MP_FEMALE@UNARMED@TRANS</Item>
 								</IdleTransitions>
 								<UnholsterClipSetId>MOVE_STEALTH@P_M_ZERO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData>UNHOLSTER_2H_MELEE_STEALTH</UnholsterClipData>
+								<UnholsterClipData>UNHOLSTER_UNARMED_STEALTH</UnholsterClipData>
 							</Item>
 						</ClipSets>
 					</Item>
@@ -220,23 +320,30 @@
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
+						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 						</Weapons>
 						<ClipSets>
 							<Item>
 								<MovementClipSetId>MOVE_ACTION@P_M_ZERO@UNARMED@CORE</MovementClipSetId>
-								<WeaponClipSetId>MOVE_ACTION@GENERIC@2H_MELEE_WEAPON@UPPER</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true"/>
+								<WeaponClipSetId/>
+								<WeaponClipFilterId/>
+								<UpperBodyShadowExpressionEnabled value="false"/>
 								<UpperBodyFeatheredLeanEnabled value="false"/>
-								<UseWeaponAnimsForGrip value="false"/>
-								<UseLeftHandIk value="true"/>
+								<UseWeaponAnimsForGrip value="true"/>
+								<UseLeftHandIk value="false"/>
 								<IdleTransitionBlendOutTime value="0.50000000"/>
 								<IdleTransitions>
-									<Item>MOVE_ACTION@GENERIC@2H_MELEE_WEAPON@TRANS@P_M_ZERO</Item>
+									<Item>MOVE_ACTION@P_M_ZERO@UNARMED@TRANS@A</Item>
 								</IdleTransitions>
 								<UnholsterClipSetId>MOVE_ACTION@P_M_ZERO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData>UNHOLSTER_2H_MELEE</UnholsterClipData>
+								<UnholsterClipData>UNHOLSTER_UNARMED</UnholsterClipData>
 							</Item>
 						</ClipSets>
 					</Item>
@@ -244,7 +351,14 @@
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
+						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 						</Weapons>
 						<ClipSets>
 							<Item>
@@ -257,10 +371,10 @@
 								<UseLeftHandIk value="false"/>
 								<IdleTransitionBlendOutTime value="0.50000000"/>
 								<IdleTransitions>
-									<Item>MOVE_STEALTH@GENERIC@2H_MELEE_WEAPON@P_M_ZERO</Item>
+									<Item>MOVE_STEALTH@P_M_ZERO@UNARMED@TRANS@A</Item>
 								</IdleTransitions>
 								<UnholsterClipSetId>MOVE_STEALTH@P_M_ZERO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData>UNHOLSTER_2H_MELEE_STEALTH</UnholsterClipData>
+								<UnholsterClipData>UNHOLSTER_UNARMED_STEALTH</UnholsterClipData>
 							</Item>
 						</ClipSets>
 					</Item>
@@ -275,23 +389,30 @@
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
+						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 						</Weapons>
 						<ClipSets>
 							<Item>
 								<MovementClipSetId>MOVE_ACTION@P_M_ONE@UNARMED@CORE</MovementClipSetId>
-								<WeaponClipSetId>MOVE_ACTION@GENERIC@2H_MELEE_WEAPON@UPPER</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true"/>
+								<WeaponClipSetId/>
+								<WeaponClipFilterId/>
+								<UpperBodyShadowExpressionEnabled value="false"/>
 								<UpperBodyFeatheredLeanEnabled value="false"/>
-								<UseWeaponAnimsForGrip value="false"/>
-								<UseLeftHandIk value="true"/>
+								<UseWeaponAnimsForGrip value="true"/>
+								<UseLeftHandIk value="false"/>
 								<IdleTransitionBlendOutTime value="0.50000000"/>
 								<IdleTransitions>
-									<Item>MOVE_ACTION@GENERIC@2H_MELEE_WEAPON@TRANS@P_M_ONE</Item>
+									<Item>MOVE_ACTION@P_M_ONE@UNARMED@TRANS@A</Item>
 								</IdleTransitions>
 								<UnholsterClipSetId>MOVE_ACTION@P_M_ONE@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData>UNHOLSTER_2H_MELEE</UnholsterClipData>
+								<UnholsterClipData>UNHOLSTER_UNARMED</UnholsterClipData>
 							</Item>
 						</ClipSets>
 					</Item>
@@ -299,7 +420,14 @@
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
+						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 						</Weapons>
 						<ClipSets>
 							<Item>
@@ -312,10 +440,10 @@
 								<UseLeftHandIk value="false"/>
 								<IdleTransitionBlendOutTime value="0.50000000"/>
 								<IdleTransitions>
-									<Item>MOVE_STEALTH@GENERIC@2H_MELEE_WEAPON@P_M_ONE</Item>
+									<Item>MOVE_STEALTH@P_M_ONE@UNARMED@TRANS@A</Item>
 								</IdleTransitions>
 								<UnholsterClipSetId>MOVE_STEALTH@P_M_ONE@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData>UNHOLSTER_2H_MELEE_STEALTH</UnholsterClipData>
+								<UnholsterClipData>UNHOLSTER_UNARMED_STEALTH</UnholsterClipData>
 							</Item>
 						</ClipSets>
 					</Item>
@@ -330,23 +458,30 @@
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
+						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 						</Weapons>
 						<ClipSets>
 							<Item>
 								<MovementClipSetId>MOVE_ACTION@P_M_TWO@UNARMED@CORE</MovementClipSetId>
-								<WeaponClipSetId>MOVE_ACTION@GENERIC@2H_MELEE_WEAPON@UPPER</WeaponClipSetId>
-								<WeaponClipFilterId>UpperbodyAndIk_filter</WeaponClipFilterId>
-								<UpperBodyShadowExpressionEnabled value="true"/>
+								<WeaponClipSetId/>
+								<WeaponClipFilterId/>
+								<UpperBodyShadowExpressionEnabled value="false"/>
 								<UpperBodyFeatheredLeanEnabled value="false"/>
-								<UseWeaponAnimsForGrip value="false"/>
-								<UseLeftHandIk value="true"/>
+								<UseWeaponAnimsForGrip value="true"/>
+								<UseLeftHandIk value="false"/>
 								<IdleTransitionBlendOutTime value="0.50000000"/>
 								<IdleTransitions>
-									<Item>MOVE_ACTION@GENERIC@2H_MELEE_WEAPON@TRANS@P_M_TWO</Item>
+									<Item>MOVE_ACTION@P_M_TWO@UNARMED@TRANS@A</Item>
 								</IdleTransitions>
 								<UnholsterClipSetId>MOVE_ACTION@P_M_TWO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData>UNHOLSTER_2H_MELEE</UnholsterClipData>
+								<UnholsterClipData>UNHOLSTER_UNARMED</UnholsterClipData>
 							</Item>
 						</ClipSets>
 					</Item>
@@ -354,7 +489,14 @@
 				<Item>
 					<Item>
 						<Weapons>
-							<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_BLUE</Item>
+						<Item>WEAPON_KATANA_DARK_BLUE</Item>
+						<Item>WEAPON_KATANA_GREEN</Item>
+						<Item>WEAPON_KATANA_LILAC</Item>
+						<Item>WEAPON_KATANA_PINK</Item>
+						<Item>WEAPON_KATANA_PURPLE</Item>
+						<Item>WEAPON_KATANA_RED</Item>
+						<Item>WEAPON_KATANA_YELLOW</Item>
 						</Weapons>
 						<ClipSets>
 							<Item>
@@ -367,10 +509,10 @@
 								<UseLeftHandIk value="false"/>
 								<IdleTransitionBlendOutTime value="0.50000000"/>
 								<IdleTransitions>
-									<Item>MOVE_STEALTH@GENERIC@2H_MELEE_WEAPON@P_M_TWO</Item>
+									<Item>MOVE_STEALTH@P_M_TWO@UNARMED@TRANS@A</Item>
 								</IdleTransitions>
 								<UnholsterClipSetId>MOVE_STEALTH@P_M_TWO@HOLSTER</UnholsterClipSetId>
-								<UnholsterClipData>UNHOLSTER_2H_MELEE_STEALTH</UnholsterClipData>
+								<UnholsterClipData>UNHOLSTER_UNARMED_STEALTH</UnholsterClipData>
 							</Item>
 						</ClipSets>
 					</Item>
@@ -379,6 +521,14 @@
 			<LastBattleEventHighEnergyStartTime value="0.00000000"/>
 			<LastBattleEventHighEnergyEndTime value="5.00000000"/>
 		</Item>
+	<!--  -->
+	<!--  -->
+	<!--  -->
+	<!--  -->
+	<!--  -->
+	<!--  -->
+	<!--  -->
+	<!--  -->
 	</MovementModes>
 </CPedModelInfo__PersonalityDataList>
 
