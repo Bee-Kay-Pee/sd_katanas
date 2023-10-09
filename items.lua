@@ -1,6 +1,5 @@
 
-
--- katanas 
+    -- katanas 
 
 
     ['weapon_katana_blue']			    = {['name'] = 'weapon_katana_blue',				    ['label'] = 'Blue Katana',				['weight'] = 1000,		   ['type'] = 'weapon',	    ['ammotype'] = nil,						   ['image'] = 'katana_blue.png',		        ['unique'] = true,		   ['useable'] = true,		['description'] = 'A katana with a blue handle'},
