@@ -1,5 +1,5 @@
 
-    -- katanas 
+    -- katanas for items.lua
 
 
     ['weapon_katana_blue']			    = {['name'] = 'weapon_katana_blue',				    ['label'] = 'Blue Katana',				['weight'] = 1000,		   ['type'] = 'weapon',	    ['ammotype'] = nil,						   ['image'] = 'katana_blue.png',		        ['unique'] = true,		   ['useable'] = true,		['description'] = 'A katana with a blue handle'},
@@ -10,3 +10,15 @@
     ['weapon_katana_purple']			= {['name'] = 'weapon_katana_purple',				['label'] = 'Purple Katana',			['weight'] = 1000,		   ['type'] = 'weapon',	    ['ammotype'] = nil,						   ['image'] = 'katana_purple.png',		        ['unique'] = true,		   ['useable'] = true,		['description'] = 'A katana with a purple handle'},
     ['weapon_katana_red']			    = {['name'] = 'weapon_katana_red',				    ['label'] = 'Red Katana',				['weight'] = 1000,		   ['type'] = 'weapon',	    ['ammotype'] = nil,						   ['image'] = 'katana_red.png',		        ['unique'] = true,		   ['useable'] = true,		['description'] = 'A katana with a red handle'},
     ['weapon_katana_yellow']			= {['name'] = 'weapon_katana_yellow',				['label'] = 'Yellow Katana',			['weight'] = 1000,		   ['type'] = 'weapon',	    ['ammotype'] = nil,						   ['image'] = 'katana_yellow.png',		        ['unique'] = true,		   ['useable'] = true,		['description'] = 'A katana with a yellow handle'},
+
+
+    -- katanas for weapons.lua
+
+	[`weapon_katana_blue`] 		 	= {['name'] = 'weapon_katana_blue', 	['label'] = 'Blue Katana',        	['weapontype'] = 'Melee',		['ammotype'] = nil,		['damagereason'] = 'Knifed / Stabbed / Eviscerated'},
+	[`weapon_katana_dark_blue`] 	= {['name'] = 'weapon_katana_dark_blue', ['label'] = 'Dark Blue Katana',    ['weapontype'] = 'Melee',		['ammotype'] = nil,		['damagereason'] = 'Knifed / Stabbed / Eviscerated'},
+	[`weapon_katana_green`] 		= {['name'] = 'weapon_katana_green', 	['label'] = 'Green Katana',        	['weapontype'] = 'Melee',		['ammotype'] = nil,		['damagereason'] = 'Knifed / Stabbed / Eviscerated'},
+	[`weapon_katana_lilac`] 		= {['name'] = 'weapon_katana_lilac', 	['label'] = 'Lilac Katana',        	['weapontype'] = 'Melee',		['ammotype'] = nil,		['damagereason'] = 'Knifed / Stabbed / Eviscerated'},
+	[`weapon_katana_pink`] 		 	= {['name'] = 'weapon_katana_pink', 	['label'] = 'Pink Katana',        	['weapontype'] = 'Melee',		['ammotype'] = nil,		['damagereason'] = 'Knifed / Stabbed / Eviscerated'},
+	[`weapon_katana_purple`] 		= {['name'] = 'weapon_katana_purple', 	['label'] = 'Purple Katana',        ['weapontype'] = 'Melee',		['ammotype'] = nil,		['damagereason'] = 'Knifed / Stabbed / Eviscerated'},
+	[`weapon_katana_red`] 		 	= {['name'] = 'weapon_katana_red', 		['label'] = 'Red Katana',        	['weapontype'] = 'Melee',		['ammotype'] = nil,		['damagereason'] = 'Knifed / Stabbed / Eviscerated'},
+	[`weapon_katana_yellow`] 		= {['name'] = 'weapon_katana_yellow', 	['label'] = 'Yellow Katana',        ['weapontype'] = 'Melee',		['ammotype'] = nil,		['damagereason'] = 'Knifed / Stabbed / Eviscerated'},
