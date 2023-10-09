@@ -1,17 +1,16 @@
 # sd_katanas
 
-Addon Katanas for QBCore
+## Addon and recoloured katanas for QBCore
 
-Credits
+### Credits
 - Original Model Makers (gta5mods)
   
-Features
+### Features
 - 8 recolored add-on Katanas
 - inventory images 
 
-Installation
-- put sd_katanas in your resources folder
-
+### Installation
+- put **sd_katanas** in your **resources** folder
 - put lines of from items.lua code into qb-core > shared > items.lua
 
 - 
