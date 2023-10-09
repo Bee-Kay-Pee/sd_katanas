@@ -18,7 +18,12 @@ https://github.com/Bee-Kay-Pee/sd_katanas/blob/ccc58565509d16d10cdaffbd528906c24
 
 Put lines of code below into **qb-core/shared/weapons.lua**
 
-Add on recoloured Katanas for Fivem.
-
 https://github.com/Bee-Kay-Pee/sd_katanas/blob/ef465e7e5db2253eb35be08110d840a2d885c16c/items.lua#L14-L24
 
+Put lines of code below into **qb-weapons/config.lua**
+
+https://github.com/Bee-Kay-Pee/sd_katanas/blob/e72015f393e941a01e5762e2a2fe6c7e80e3813a/items.lua#L27-L36
+
+Put lines of code below into **qb-smallresources/client/weapdraw.lua**
+
+https://github.com/Bee-Kay-Pee/sd_katanas/blob/5aeaa991c55bfbc38d0e2591674d203235b4cd21/items.lua#L38-L47
