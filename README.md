@@ -14,6 +14,6 @@
   
 Put lines of from below code into **qb-core>shared>items.lua**
 
-https://github.com/Bee-Kay-Pee/sd_katanas/blob/ccc58565509d16d10cdaffbd528906c249f20eef/items.lua#L1-L13
+https://github.com/Bee-Kay-Pee/sd_katanas/blob/ccc58565509d16d10cdaffbd528906c249f20eef/items.lua#L2-L13
 
 Add on recoloured Katanas for Fivem.
