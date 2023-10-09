@@ -22,3 +22,15 @@
 	[`weapon_katana_purple`] 		= {['name'] = 'weapon_katana_purple', 	['label'] = 'Purple Katana',        ['weapontype'] = 'Melee',		['ammotype'] = nil,		['damagereason'] = 'Knifed / Stabbed / Eviscerated'},
 	[`weapon_katana_red`] 		 	= {['name'] = 'weapon_katana_red', 		['label'] = 'Red Katana',        	['weapontype'] = 'Melee',		['ammotype'] = nil,		['damagereason'] = 'Knifed / Stabbed / Eviscerated'},
 	[`weapon_katana_yellow`] 		= {['name'] = 'weapon_katana_yellow', 	['label'] = 'Yellow Katana',        ['weapontype'] = 'Melee',		['ammotype'] = nil,		['damagereason'] = 'Knifed / Stabbed / Eviscerated'},
+
+    
+    -- katanas for config.lua
+
+    ['weapon_katana_blue'] 			 = 0.15,
+    ['weapon_katana_dark_blue'] 	 = 0.15,
+    ['weapon_katana_green'] 		 = 0.15,
+    ['weapon_katana_lilac'] 		 = 0.15,
+    ['weapon_katana_pink'] 		     = 0.15,
+    ['weapon_katana_purple'] 		 = 0.15,
+    ['weapon_katana_red'] 		     = 0.15,
+    ['weapon_katana_yellow'] 		 = 0.15,
