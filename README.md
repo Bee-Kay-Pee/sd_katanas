@@ -11,7 +11,9 @@
 
 ### Installation
 - put **sd_katanas** in your **resources** folder
-- put lines of from items.lua code into qb-core > shared > items.lua
+  
+#### Put lines of from below code into **qb-core>shared>items.lua**
+  
 
 - 
 Add on recoloured Katanas for Fivem.
