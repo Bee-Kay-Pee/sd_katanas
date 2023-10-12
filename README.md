@@ -2,6 +2,9 @@
 
 ## Addon and recoloured katanas for QBCore
 
+## For any support please join our discord
+https://discord.gg/supremacy
+
 ### Credits
 - Original Model Makers (gta5mods)
   
