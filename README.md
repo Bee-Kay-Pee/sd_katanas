@@ -2,17 +2,16 @@
 
 ## Addon and recoloured katanas for QBCore
 
-## For any support please join our discord
-https://discord.gg/supremacy
+### For any support please join our discord https://discord.gg/supremacy
 
-### Credits
+#### Credits
 - Original Model Makers (gta5mods)
   
-### Features
+#### Features
 - 8 recolored add-on Katanas
 - inventory images 
 
-### Installation
+#### Installation
 - put **sd_katanas** in your **resources** folder
   
 Put lines of code below into **qb-core/shared/items.lua**
